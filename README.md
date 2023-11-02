@@ -1,1 +1,1 @@
-# SimpleChat
+Luke Schultz, 300313199, https://github.com/LukeSz03/SimpleChat
